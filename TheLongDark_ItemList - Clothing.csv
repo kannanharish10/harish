@@ -1,0 +1,65 @@
+Item Name,Warmth Bonus (°C),Windproof Bonus (°C),Total Bonus (°C),Weight (kg),Waterproof (%),Mobility (%),Protection (%),Type
+Cowichan Sweater,2.5,2,4.5,1,50.00%,-2.00%,3.00%,Torso
+Dress Shirt,0.5,1,1.5,0.25,0.00%,0.00%,0.00%,Torso
+Fisherman's Sweater,2,1.5,3.5,0.5,40.00%,-1.00%,5.00%,Torso
+Hoodie,0.5,0.5,1,0.25,10.00%,0.00%,2.00%,Torso
+Plaid Shirt,0.5,0.5,1,0.25,20.00%,0.00%,1.00%,Torso
+Sweatshirt,0.5,1,1.5,0.25,10.00%,0.00%,1.00%,Torso
+Thick Wool Sweater,1.5,1,2.5,0.5,30.00%,-1.00%,3.00%,Torso
+Thin Wool Sweater,1,0.5,1.5,0.25,20.00%,0.00%,2.00%,Torso
+T-Shirt,0.5,0,0.5,0.25,0.00%,0.00%,0.00%,Torso
+Wool Shirt,1,0.5,1.5,0.25,40.00%,0.00%,1.00%,Torso
+Bearskin Coat,6,5,11,5,80.00%,-20.00%,18.00%,Torso
+Down Vest,1,1,2,0.5,10.00%,0.00%,1.00%,Torso
+Expedition Parka,4,6,10,1.5,50.00%,-5.00%,6.00%,Torso
+Light Shell,1,2.1,3.1,1,30.00%,-2.00%,3.00%,Torso
+Mackinaw Jacket,2.5,2,4.5,1.5,40.00%,-3.00%,5.00%,Torso
+Mariner's Peacoat,3,4,7,2.5,75.00%,-6.00%,7.00%,Torso
+Military Coat,3,3,6,2,40.00%,-5.00%,8.00%,Torso
+Moose-hide Cloak,3.5,4,7.5,4,90.00%,-10.00%,25.00%,Torso
+Old Fashion Parka,3,3,6,2,20.00%,-7.00%,5.00%,Torso
+Simple Parka,2,2,4,1.25,30.00%,-5.00%,3.00%,Torso
+Ski Jacket,2,2,4,1,30.00%,-2.00%,3.00%,Torso
+Sport Vest,0.5,0.5,1,0.5,5.00%,0.00%,0.00%,Torso
+Urban Parka,2.5,2,4.5,1,10.00%,-2.00%,2.00%,Torso
+Windbreaker,0.5,3,3.5,0.5,50.00%,0.00%,1.00%,Torso
+Wolfskin Coat,4,4,8,3,60.00%,-15.00%,15.00%,Torso
+Thermal Underwear,1,0,1,0.25,20.00%,0.00%,0.00%,Legs
+Wool Longjohns,2,0,2,0.25,35.00%,0.00%,1.00%,Legs
+Cargo Pants,1.5,0.5,2,0.75,0.00%,-1.00%,3.00%,Legs
+Combat Pants,2,0.5,2.5,0.75,10.00%,0.00%,5.00%,Legs
+Deerskin Pants,2,2,4,2,60.00%,-5.00%,7.00%,Legs
+Jeans,1,0,1,0.5,0.00%,-1.00%,2.00%,Legs
+Snow Pants,2.5,2,4.5,1,50.00%,-5.00%,5.00%,Legs
+Work Pants,1.5,1,2.5,1.5,10.00%,-3.00%,8.00%,Legs
+Balaclava,2,1.5,3.5,0.25,30.00%,0.00%,3.00%,Head
+Baseball Cap,0.5,0,0.5,0.25,0.00%,0.00%,0.00%,Head
+Rabbitskin Hat,2,1.5,3.5,0.35,30.00%,0.00%,4.00%,Head
+Cotton Scarf,0.5,0,0.5,0.25,5.00%,0.00%,0.00%,Head
+Cotton Toque,1,0.5,1.5,0.1,10.00%,0.00%,1.00%,Head
+Fleece Cowl,1.5,1,2.5,0.5,20.00%,0.00%,1.00%,Head
+Long Wool Scarf,1.5,1,2.5,0.25,30.00%,2.00%,1.00%,Head
+Wool Scarf,1,0.5,1.5,0.1,20.00%,0.00%,1.00%,Head
+Wool Toque,2,1,3,0.25,30.00%,0.00%,2.00%,Head
+Driving Gloves,0.5,0.5,1,0.1,0.00%,0.00%,1.00%,Hands
+Fleece Mittens,0.5,0.5,1,0.1,5.00%,0.00%,1.00%,Hands
+Gauntlets,2,2,4,1,40.00%,-3.00%,6.00%,Hands
+Rabbitskin Mittens,2,2,4,1,50.00%,-5.00%,5.00%,Hands
+Ski Gloves,1,1,2,1,30.00%,1.00%,3.00%,Hands
+Wool Mittens,1,0.5,1.5,0.1,20.00%,0.00%,1.00%,Hands
+Work Gloves,1,0.5,1.5,0.25,0.00%,-2.00%,4.00%,Hands
+Climbing Socks,1,0.5,1.5,0.25,25.00%,0.00%,0.00%,Socks
+Sports Socks,0.2,0,0.2,0.1,0.00%,0.00%,0.00%,Socks
+Wool Socks,0.5,0,0.5,0.25,20.00%,0.00%,0.00%,Socks
+Mountaineering Boots,2,2,4,1,40.00%,-3.00%,5.00%,Shoes
+Combat Boots,1.5,1,2.5,2,20.00%,-7.00%,10.00%,Shoes
+Deerskin Boots,2.5,2,4.5,2,50.00%,-5.00%,7.00%,Shoes
+Insulated Boots,3,2,5,1.5,50.00%,-12.00%,4.00%,Shoes
+Leather Shoes,1,0.5,1.5,0.5,10.00%,-4.00%,1.00%,Shoes
+Mukluks,2.5,2,4.5,1.5,40.00%,-3.00%,5.00%,Shoes
+Running Shoes,1,0.5,1.5,0.5,0.00%,0.00%,1.00%,Shoes
+Ski Boots,3,4,7,3,30.00%,-20.00%,7.00%,Shoes
+Trail Boots,1,1,2,1,30.00%,-5.00%,3.00%,Shoes
+Work Boots,2,1,3,1.5,5.00%,-10.00%,7.00%,Shoes
+Moose-hide Satchel,0,0,0,0.25,0.00%,0.00%,0.00%,Accessories
+Wool Ear Wrap,1,0.5,1.5,0.25,20.00%,0.00%,1.00%,Accessories
